@@ -1,16 +1,6 @@
 # IntuneHRFlow
 repository for IntuneHRFlow code
 
-## Table of Contents
-
-- [Description](#description)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Description
 
 IntuneHRFlow is a Powerfull Microsoft focused solution that simplifies and automates the Onboarding and Offboarding of Employees.
