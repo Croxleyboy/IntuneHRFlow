@@ -21,6 +21,8 @@ This is an integrated solution rather than a piece of code and therefore does re
 - Asset Management (devices registered and enrolled with Intune)
 - Application requests with approval ( for assignment to Intune Assigned applications)
 - Persona mapping ( A useful way of mapping user roles to defined profiles - Apps and policies) - Not yet released
+- Workflow tracker
+- Admin Upflift
 
 ## Requirements
 
@@ -32,12 +34,4 @@ As mentioned there is a setup process required but the upfront pre-requisites ar
 
 Step-by-step instructions on how to set up your project locally.
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repo.git
-
-# Navigate to the project directory
-cd your-repo
-
-# Install dependencies
-npm install
+See the Starter Package setup guide for full guidance
