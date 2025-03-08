@@ -67,4 +67,4 @@ Instructions on how to register the application:
 Your Name - your-email@example.com
 
 Project Link: https://github.com/your-username/your-repo
-[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=xY-LYrj04ls&t=54s)
+[[![Watch the video](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=xY-LYrj04ls&t)](https://img.youtube.com/vi/xY-LYrj04ls&t/0.jpg)
