@@ -67,7 +67,7 @@ Instructions on how to register the application:
 Your Name - your-email@example.com
 
 Project Link: https://github.com/Croxleyboy/IntuneHRFlow
-[![Watch the video](https://img.youtube.com/vi/Rv_3PA2kSfo&t/hqdefault.jpg)](https://www.youtube.com/embed/Rv_3PA2kSfo&t)
+[![Watch the video](https://img.youtube.com/vi/Rv_3PA2kSfo&t/0.jpg)](https://www.youtube.com/embed/Rv_3PA2kSfo&t)
 
 [<img src="https://img.youtube.com/vi/Rv_3PA2kSfo&t=11s/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/Rv_3PA2kSfo&t=11s)
