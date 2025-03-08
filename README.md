@@ -69,6 +69,6 @@ Your Name - your-email@example.com
 Project Link: https://github.com/Croxleyboy/IntuneHRFlow
 <div align="center" dir="auto">
       <a href="https://www.youtube.com/watch?v=CbximIIAEgc" rel="nofollow">
-     <img src="https://camo.githubusercontent.com/c805cf746f0a754f808a922416b138adaf00593f52e7ffa88efd209b3f0d2a44/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f436278696d4949414567632f6d617872657364656661756c742e6a7067" alt="IntuneAssignmentChecker" style="width: 100%; max-width: 100%;" data-canonical-src="https://img.youtube.com/vi/CbximIIAEgc/maxresdefault.jpg">
+     <img src="https://camo.githubusercontent.com/c805cf746f0a754f808a922416b138adaf00593f52e7ffa88efd209b3f0d2a44/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f436278696d4949414567632f6d617872657364656661756c742e6a7067" alt="IntuneAssignmentChecker" style="width: 100%; max-width: 100%;" data-canonical-src="[https://img.youtube.com/vi/CbximIIAEgc/maxresdefault.jpg](https://i.ytimg.com/an_webp/xY-LYrj04ls/mqdefault_6s.webp?du=3000&sqp=CIqBsr4G&rs=AOn4CLD6RdHvX-0w_ot5SZhW4_YzAHLKjA)">
       </a>
 </div>
